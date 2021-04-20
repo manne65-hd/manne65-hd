@@ -9,6 +9,7 @@
   - You are welcome to collaborate on any of my repositories, which will trigger notifications ...
   - ... and boom: You'll have my attention ;-)
 
+![](https://github-readme-stats.vercel.app/api?username=manne65-hd&show_icons=true&theme=vue-dark)
 <!---
 manne65-hd/manne65-hd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
